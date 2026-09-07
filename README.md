@@ -103,7 +103,7 @@ El dashboard incluye:
 
 ```text
 ├── notebooks/
-│   └── proyecto_final_rappiplus.ipynb
+│   └── rappiplus_bussines_analysis.ipynb
 ├── data/
 │   ├── orders_clean.csv
 │   ├── catalog_clean.csv
